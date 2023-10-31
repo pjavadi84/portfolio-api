@@ -15,6 +15,9 @@ gem "puma", "~> 5.0"
 gem 'react-rails'
 gem 'webpacker'
 gem 'devise'
+gem 'rack-cors'
+gem 'devise_token_auth'
+
 
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
